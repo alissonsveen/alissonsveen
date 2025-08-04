@@ -1,4 +1,4 @@
-##  <img src="https://media.discordapp.net/attachments/1227622444043472972/1400531424066535494/raio.gif?ex=688cfa08&is=688ba888&hm=62d82081fff9af9cf7488c52d0383904ed54d5f682e5e6c52ae5c86fbcabfc43&=" width="30" height="30" color="blue" /> Olá, eu sou o Alisson!
+##  <img src="https://i.postimg.cc/bNk5RBXh/raio.gif" width="30" height="30" /> Olá, eu sou o Alisson!
 
 Sou **desenvolvedor full stack**, apaixonado por criar aplicações modernas e escaláveis. Tenho foco em boas práticas, performance e tecnologias atuais, e estou sempre em busca de novos desafios e soluções criativas.
 
