@@ -40,6 +40,6 @@ Atualmente, sigo aprendendo e evoluindo, buscando oportunidades para contribuir 
 ### 📫 Vamos Conversar?
 
 <div>
-  <a href="mailto:alissonsveen777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:alissonsveen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/alisson-fernandes-312b52266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
